@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>图片宽度</title>
+        <style>
+            *{padding:0;margin:0;}
+
+            .maxW{
+                max-width: 300px;
+            }
+
+            .boxSize{
+                box-sizing: border-box;
+                padding:0 90px
+            }
+
+            .scale0625{
+                transform: scale(0.625)
+            }
+        </style>
+    </head>
+    <body>
+        <!-- <img src="./images/timg.jpg" style="width:480px!important;"/> -->
+        <img src="./images/timg.jpg" style="width:480px!important;width:300px!important;"/>
+
+        <script>
+            window.onload=function(){
+                let imgEle=document.querySelector('img');
+
+                // imgEle.className='maxW';
+                // imgEle.className='boxSize'
+                // imgEle.className='scale0625'
+            }
+        </script>
+    </body>
+</html>
