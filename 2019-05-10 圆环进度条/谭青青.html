@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>圆环进度条</title>
+        <style>
+            #prograss {
+                position: absolute;
+            }
+            .circleB {
+                width:200px;
+                height:200px;
+                border-radius: 200px;
+                background-color: red;
+                position: absolute;
+                top:200px;
+                left: 200px;
+                z-index: 3;
+            }
+            .circleS {
+                width:180px;
+                height:180px;
+                border-radius: 180px;
+                background-color: green;
+                position: absolute;
+                top:210px;
+                left: 210px;
+                z-index: 4;
+            }
+            svg {
+				width:1000px;
+				height:1000px;
+			}
+			circle {
+			    transform:rotate(-45deg);
+			    transform-origin:100px 100px;
+		    }
+        </style>
+    </head>
+    <body>
+        <!-- <div id="prograss">
+            <div class="circleB"></div>
+            <div class="circleS"></div>
+        </div> -->
+        <!-- <canvas id="can"></canvas> -->
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+            <circle cx="200" cy="200" r="50" fill="#fff" stroke="gray" />
+            <circle  id="progress" cx="200" cy="200" r="40" stroke="pink" 
+                   stroke-width="20"
+                   stroke-linecap="butt"
+                   stroke-dasharray="1,600"
+                   fill="#fefefe" />
+            <circle cx="200" cy="200" r="30" fill="#fff" stroke="gray"  />
+            <text x="230" y="105" fill="red" id="text">0%</text>
+            <text x="0" y="15" fill="red" transform="rotate(30 20,40)">I love SVG</text>
+        </svg> 
+            
+            <script>
+                let a = document.getElementById("progress");
+                let radius = a.getAttribute('r');
+                let text = document.getElementById('text');
+                let len = 1;
+                let c = 2*Math.PI * radius;
+                setInterval(function(){
+                    len=len+1
+                    if(len>c){
+                        len=0
+                    }
+                    let percent=len/c*100;
+                    text.innerHTML=percent.toFixed(0)+'%';
+                    a.setAttribute('stroke-dasharray',`${len},${c}`);
+                },100)
+            </script>
+    </body>
+</html>

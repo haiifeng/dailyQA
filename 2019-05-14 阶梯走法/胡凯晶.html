@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function getStep(num){
+            let len=Math.floor(num/2) 
+            let sum=0;
+            for(let i=1;i<=len;i++){
+                let oneNum=num-(2*i)
+                let twoNum=i
+                if(oneNum){
+                    let a=1;
+                    for(let j=oneNum+1;j<oneNum+twoNum+1;j++){
+                        a=a*j;
+                    }
+                    sum=sum+a
+                }else{
+                    sum=sum+1;
+                }
+            }
+            sum=sum+1;
+            return sum
+        }
+        let data=getStep(5)
+        /*
+            解题思路：转换为数学问题就是，用n个1和m个2相加得到一个值，1和2可以随意排列，有多少种排列方式。
+            假设总台阶为7，然后按2的个数进行分类剩下以下可能结果：
+            1111111     //没有2
+            121111      //一个2
+            12211       //两个2
+            1222        //三个二
+            共有 Math.floor(7/2)+1种结果，全为1的情况只有一种，不做考虑，分析下面多个2的排列情况
+            例如12211这种有两个2的情况，问有多少种排列方式。转换为数学问题就是排列组合。
+            根据高中所学排列组合知识进行计算;C52    5*4/2   共有10种情况。
+            然后将所有情况求和，可得出总步数。
+            1+(6/1)+(5*4/2)+(4)=21种
+        */
+    </script>
+</body>
+</html>

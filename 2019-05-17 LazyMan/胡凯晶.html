@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <script>
+       class Man{
+           constructor(name){
+               this.taskQueue=[]
+               this.name=name
+               console.log('Hi I am '+name)
+               setTimeout(()=>{
+                   this.next()
+               },0)
+           }
+           sleepFirst(time){
+            console.log('sleepFirst')
+            let that=this;
+            let fun=function(){
+                setTimeout(()=>{
+                    console.log('首先等待了'+time+'秒')
+                    that.next()
+                },time*1000)
+            }
+            this.taskQueue.unshift(fun)
+            return this
+           }
+           sleep(time){
+            console.log('sleep')
+            let that=this;
+            let fun=function(){
+                setTimeout(()=>{
+                    console.log('等待了'+time+'秒')
+                    that.next()
+                },time*1000)
+            }
+            this.taskQueue.push(fun)
+            return this
+           }
+           eat(food){
+                console.log('eat')
+                let that=this;
+                let fun=function(){
+                    console.log(`eating${food}`)
+                    that.next()
+                }
+                this.taskQueue.push(fun)
+                return this
+           }
+           next(){
+               let fun=this.taskQueue.shift()
+               fun&&fun()
+           }
+       }
+       let man=new Man('hkj')
+       man.eat('banana').sleep(2).eat('orange').sleepFirst(2)
+    </script>
+</body>
+</html>
