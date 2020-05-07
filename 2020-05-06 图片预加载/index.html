@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片预加载</title>
+</head>
+
+<body>
+    <div>
+        <h2>1.什么是预加载</h2>
+        <p>资源预加载是另一个性能优化技术，我们可以使用该技术来预先告知浏览器某些资源可能在将来会被使用到。预加载简单来说就是将所有所需的资源提前请求加载到本地，这样后面在需要用到时就直接从缓存取资源。</p>
+        <h2>2.为什么要用预加载</h2>
+        <p>在网页全部加载之前，对一些主要内容进行加载，以提供给用户更好的体验，减少等待的时间。否则，如果一个页面的内容过于庞大，没有使用预加载技术的页面就会长时间的展现为一片空白，直到所有内容加载完毕。</p>
+        <h2>3.实现预加载的几种办法</h2>
+        <div>
+            <h3>3.1使用HTML标签</h3>
+            <xmp>
+                <img src="http://pic26.nipic.com/20121213/6168183 0044449030002.jpg" style="display:none" />
+            </xmp>
+            <h3>3.2使用Image对象</h3>
+            <xmp>
+                <script src="./myPreload.js"></script>
+            </xmp>
+            <xmp>
+                //myPreload.js文件
+                var image= new Image()
+                image.src="http://pic26.nipic.com/20121213/6168183 004444903000 2.jpg"
+            </xmp>
+            <h3>3.3使用XMLHttpRequest对象,虽然存在跨域问题，但会精细控制预加载过程</h3>
+            <xmp>
+                var xmlhttprequest=new XMLHttpRequest();
+                xmlhttprequest.onreadystatechange=callback;
+                xmlhttprequest.onprogress=progressCallback;
+                xmlhttprequest.open("GET","http://image.baidu.com/mouse,jpg",true);
+                xmlhttprequest.send();
+                function callback(){
+                    if(xmlhttprequest.readyState==4&& xmlhttprequest.status==200){
+                        var responseText=xmlhttprequest.responseText;
+                    }else{
+                        console.log("Request was unsuccessful:"+xmlhttprequest.status);
+                    }
+                }
+                function progressCallback(e){
+                    e=e || event;
+                    if(e.lengthComputable){
+                    console.log("Received"+e.loaded+"of"+e.total+"bytes")
+                    }
+                }
+            </xmp>
+            <h3>3.4使用<a href="https://createjs.com/preloadjs" target="_blank">PreloadJS</a>库</h3>
+            <p>PreloadJS提供了一种预加载内容的一致方式，以便在HTML应用程序中使用。预加载可以使用HTML标签以及XHR来完成。默认情况下，PreloadJS会尝试使用XHR加载内容，因为它提供了对进度和完成事件的更好支持，但是由于跨域问题，使用基于标记的加载可能更好。</p>
+            <xmp>
+                //使用preload.js
+                var queue=new createjs.LoadQueue();//默认是xhr对象，如果是new createjs.LoadQueue(false)是指使用HTML标签，可以跨域
+                queue.on("complete",handleComplete,this);
+                queue.loadManifest([
+                    {id:"myImage",src:"http://pic26.nipic.com/20121213/6168183  0044449030002.jpg"},
+                    {id："myImage2"，src:"http://pic9.nipic.com/20100814/2839526  1931471581702.jpg"}
+                ]);
+                function handleComplete(){
+                    var image=queue.getResuLt("myImage");
+                    document.body.appendChild(image);
+                }
+            </xmp>
+
+        </div>
+    </div>
+</body>
+
+</html>
