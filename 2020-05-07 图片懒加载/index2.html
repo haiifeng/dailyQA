@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <title>lazyLoad</title>
+    <style type="text/css" media="all">
+        body,
+        ul,
+        li {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            font-size: 12px;
+            -webkit-user-select: none;
+            -webkit-text-size-adjust: none;
+            font-family: helvetica;
+        }
+
+        .lazyLoad ul li {
+            height: 500px;
+            margin-bottom: 2px;
+            overflow: hidden;
+            text-align: center;
+        }
+        .lazyLoad ul li img{
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="lazyLoad">
+        <ul>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img load-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img data-src="./images/1.jpg" alt=""></li>
+            <li><img data-src="./images/2.jpg" alt=""></li>
+            <li><img load-src="./images/1.jpg" alt=""></li>
+        </ul>
+    </div>
+
+    <script>
+        var loadPic = function (obj, option) {
+            if (!obj) return;
+            return new lazyLoad(obj, option);
+        }
+
+        function lazyLoad() {
+            this.init.apply(this, arguments);
+        }
+
+        lazyLoad.prototype = {
+            init: function (el, param) {
+                var opt = {
+                    dataSrc: 'lazyImg',
+                    dataImg: 'http://qiniu.cllgeek.com/loading.gif',
+                    contens: typeof el === 'string' ? this.getElement(el) : el || document.body,
+                    cb: null
+                }
+
+                if (param && param instanceof Object) {
+                    for (var key in param) {
+                        if (param.hasOwnProperty(key)) {
+                            opt[key] = param[key];
+                        }
+                    }
+                }
+                console.log(opt)
+                this.opt = opt;
+                this.render();
+                this.bindUI();
+            },
+            render: function () {
+                var _opt = this.opt,
+                    _imgArr = [],
+                    _dom = _opt.contens,
+                    _img = _dom.querySelectorAll('[' + _opt.dataSrc + ']');
+
+                if (_img.length) {
+                    var _tagName;
+                    Array.prototype.forEach.call(_img, function (item, i) {
+                        _tagName = item.tagName.toLowerCase();
+                        if (_tagName === 'img' && !item.getAttribute('src')) {
+                            item.setAttribute('src', this.opt.dataImg);
+                        }
+                        _imgArr.push({
+                            obj: item,
+                            tagName: item.tagName.toLowerCase(),
+                            src: item.getAttribute(_opt.dataSrc)
+                        })
+                    }.bind(this));
+                }
+                this.imgArr = _imgArr;
+                this.loadImg();
+            },
+            bindUI: function () {
+                window.addEventListener('scroll', function (e) {
+                    this.loadImg();
+                }.bind(this), false);
+            },
+            loadImg: function () {
+                // console.log(this.imgArr);
+                var _imgArr = this.imgArr;
+                var _dataSrc, _src;
+                if (_imgArr.length) {
+                    _imgArr.forEach(function (item, i) {
+                        if (this.isLoad(item.obj)) {
+                            //如果是图片
+                            if (item.tagName == 'img') {
+                                _dataSrc = this.opt.dataSrc;
+                                _src = item.obj.getAttribute(_dataSrc);
+                                if (_src) {
+
+                                    item.obj.setAttribute('src', _src);
+                                    item.obj.removeAttribute(_dataSrc);
+
+                                    if (typeof this.opt.cb === 'function') {
+                                        return this.opt.cb.call(this, item.obj)
+                                    }
+                                }
+                            } else {
+                                //加载文件
+                                if (typeof this.opt.cb === 'function') {
+                                    if (_imgArr[i].isLoad) {
+                                        return false;
+                                    }
+                                    _imgArr[i].isLoad = 1;
+                                    return this.opt.cb.call(this, item.obj)
+                                }
+                            }
+                        }
+                    }.bind(this));
+                }
+            },
+            isLoad: function (img) {
+                var _scrollTop = document.body.scrollTop || document.documentElement.scrollTop;
+                var _winHeight = window.innerHeight;
+                var _offsetTop = img.offsetTop;
+                var _height = img.offsetHeight
+                if (_offsetTop + _height >= _scrollTop && _offsetTop <= _winHeight + _scrollTop) {
+                    return true;
+                }
+                return false;
+            },
+            getElement: function (o) {
+                return document.querySelector(o);
+            }
+        }
+
+        var t = loadPic('.lazyLoad', {
+            dataSrc: 'data-src',
+            cb: function (item) {
+                console.log(item)
+            }
+        })
+    </script>
+</body>
+
+</html>
