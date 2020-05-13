@@ -1,0 +1,24 @@
+<style>
+svg{width:40%;height:30%}
+@keyframes openYourHeart {from {r: 0} to {r: 60px}}
+#myClip circle {
+  animation: openYourHeart 15s infinite;
+}
+</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <clipPath id="myClip">
+    <!--
+      圆圈外的所有东西都会被裁剪掉，因此不可见。
+    -->
+    <circle cx="40" cy="35" r="35"></circle>
+  </clipPath>
+ 
+  <!-- 作为引用元素（英文原文：for reference）的黑色心形 -->
+  <path id="heart" d="M10,30 A20,20,0,0,1,50,30 A20,20,0,0,1,90,30 Q90,60,50,90 Q10,60,10,30 Z"></path>
+ 
+  <!--
+    只有位于黑色心形内的那一部分红色圆形是可见的；
+    随着圆变大，它将逐渐变为一个红色心形。
+  -->
+  <use clip-path="url(#myClip)" xlink:href="#heart" fill="red"></use>
+</svg>
