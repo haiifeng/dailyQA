@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .black-bg {
+            background-color: black;
+        }
+
+        pre {
+            background-color: black;
+            color: #fff;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <h1>2020-6-28 css3背景即背景动画</h1>
+        <h2>1.实现内部虚线边框</h2>
+        <p>知识点：outline,outline可以为负值</p>
+        <p><a href="https://juejin.im/post/591e478b0ce4630069308278">CSS并不简单--走进border、box-shadow和outline</a></p>
+        <style>
+            .dash-border {
+                width: 200px;
+                height: 100px;
+                line-height: 100px;
+                outline: 1px dashed #fff;
+                outline-offset: -10px;
+            }
+        </style>
+        <pre>
+            .dash-border {
+                width: 200px;
+                height: 100px;
+                line-height: 100px;
+                outline: 1px dashed #fff;
+                outline-offset: -10px;
+            }
+        </pre>
+        <div class="black-bg dash-border"></div>
+    </section>
+
+    <section>
+        <h2>2.边框内圆角的实现</h2>
+        <p>知识点：box-shadow: h-shadow v-shadow blur spread color inset;</p>
+        <p>spread:阴影的大小，正值</p>
+        <p>inset:可选，将外层阴影改变为内层阴影，此时盒子宽高为border-box，content+shadow=设置的宽高</p>
+        <style>
+            .radius-border {
+                width: 200px;
+                height: 100px;
+                border-radius: 10px;
+                box-shadow: 0 0 0 10px pink inset;
+            }
+
+            .img-box {
+                width: 1100px;
+                margin: 15px;
+                position: relative;
+                box-shadow: 1px 0 10px rgba(0, 0, 0, 0.16);
+            }
+
+            .img-box:before,
+            .img-box:after {
+                content: "";
+                position: absolute;
+                -webkit-transform: rotate(-3deg);
+                transform: rotate(-3deg);
+                bottom: 15px;
+                box-shadow: 0 15px 5px rgba(0, 0, 0, 0.3);
+                height: 20px;
+                left: 3px;
+                width: 40%;
+            }
+
+            .img-box:after {
+                -webkit-transform: rotate(3deg);
+                transform: rotate(3deg);
+                left: auto;
+                right: 3px;
+            }
+
+            .img-box .img-content {
+                position: relative;
+                z-index: 2;
+                background: #fff;
+                padding: 10px;
+            }
+        </style>
+        <div class="black-bg radius-border"></div>
+        <div class="img-box">
+            <div class="img-content">
+                <img src="./inset.png" alt="设置inset">
+            </div>
+        </div>
+        <div class="img-box">
+            <div class="img-content">
+                <img src="./no-inset.png" alt="不设置inset">
+            </div>
+        </div>
+
+    </section>
+
+    <section>
+        <h1>3.实现条纹背景与进度条</h1>
+        <p>知识点：linear-gradient,repeating-linear-gradient</p>
+        <p>background-image: linear-gradient(direction, color-stop1, color-stop2, ...);</p>
+        <p>background: repeating-linear-gradient(angle | to side-or-corner, color-stop1, color-stop2, ...);</p>
+        <style>
+            .black-bg.box0 {
+                padding: 10px;
+            }
+
+            .box1 {
+                width: 200px;
+                height: 20px;
+                background: linear-gradient(to right, #fb3 50%, #58a 0);
+                background-size: 40px 100%;
+                box-shadow: 0 0 3px #555 inset;
+                border-radius: 10px;
+            }
+
+            .box2 {
+                width: 200px;
+                height: 20px;
+                background: linear-gradient(45deg, #fb30, #fb3 25%, #58a 25%, #58a 50%, #fb3 50%, #fb3 75%, #58a 75%, #58a 100%);
+                background-size: 40px 40px;
+                border-radius: 10px;
+                margin: 20px 0;
+            }
+
+            .box3 {
+                width: 200px;
+                height: 20px;
+                background: repeating-linear-gradient(45deg, #fb3 0, #fb3 10px, #58a 10px, #58a 20px, #fb3 20px, #fb3 30px, #58a 30px, #58a 40px);
+                border-radius: 10px;
+                /* background-size: 40px 40px;渐变使用具体的数值，就不再需要使用size */
+                margin: 20px 0;
+            }
+        </style>
+        <div class="black-bg box0">
+            <div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+        </div>
+    </section>
+
+    <section>
+        <h1>4.复杂的背景图案</h1>
+        <p>知识点：linear-gradient,repeating-linear-gradient,radial-gradient</p>
+        <style>
+            .bg-grid {
+                margin-top: 20px;
+                width: 200px;
+                height: 200px;
+                background-image: linear-gradient(rgba(255, 255, 255, 1) 2px, transparent 0),
+                    linear-gradient(to right, rgba(255, 255, 255, 1) 2px, transparent 0),
+                    linear-gradient(rgba(255, 255, 255, .2) 1px, transparent 0),
+                    linear-gradient(to right, rgba(255, 255, 255, .2) 1px, transparent 0);
+                background-position: -50px -50px;
+                background-size: 100px 100px, 100px 100px, 10px 10px, 10px 10px;
+            }
+
+            .animate-grid {
+                animation: move-grid 6s linear infinite;
+            }
+
+            @keyframes move-grid {
+                0% {
+                    background-position: -50px -50px;
+                }
+
+                30% {
+                    background-position: -100px -100px;
+                }
+
+                60% {
+                    background-position: -100px -150px;
+                }
+
+                100% {
+                    background-position: -50px -50px;
+                }
+            }
+        </style>
+        <div class="">
+            <div class="bg-grid black-bg"></div>
+            <div class="bg-grid animate-grid black-bg"></div>
+            <img src="./random-grid.gif" alt="效果图" srcset="">
+        </div>
+        <h2>红绿灯以及红路灯随机运动动画</h2>
+        <style></style>
+        <div>
+            <div class="bg-dot black-bg animate-dot"></div>
+            <div class="bg-dot black-bg animate-dot2"></div>
+        </div>
+    </section>
+</body>
+
+</html>
