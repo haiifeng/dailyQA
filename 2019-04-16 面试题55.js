@@ -31,3 +31,9 @@ let arr = Array.from({length:12},(v,i) => obj[i+1] || null )
 
 let obj = {1:222, 2:123, 5:888};
 const result = Array.from({ length: 12 }).map((_, index) => obj[index + 1] || null);
+
+
+let b = []
+for(let i = 1 ; i<=12 ; i++){
+    a[i]||a[i]==0 ? b.push(a[i]) :b.push(null);
+}
