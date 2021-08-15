@@ -70,6 +70,7 @@ function promieseRetry(p, n) {
             }).catch((err) => {
                 n--;
                 b(err)
+                result = true;
             })
         });
     }

@@ -1,15 +1,15 @@
-# js 去除?� 乱码
+// # js 去除?� 乱码
 
-## 需求
-- 将这段字符串 "I'm?���driving�??�to�?beijing�?��after�breakfast"，格式化为："I'm driving to Beijing after breakfast"。
+// ## 需求
+// - 将这段字符串 "I'm?���driving�??�to�?beijing�?��after�breakfast"，格式化为："I'm driving to Beijing after breakfast"。
  
-## 思路
-- 将字符串根据�拆分成数组，清除�的影响
-- 过滤空串或者无效的数组元素(这里指'?'字符串)
-- 匹配首位是否是?号，有的话就将第二个字符转成大写
-- 数组拼接为字符串
-## 代码实现
-```
+// ## 思路
+// - 将字符串根据�拆分成数组，清除�的影响
+// - 过滤空串或者无效的数组元素(这里指'?'字符串)
+// - 匹配首位是否是?号，有的话就将第二个字符转成大写
+// - 数组拼接为字符串
+// ## 代码实现
+
 let str = "I'm?���driving�??�to�?beijing�?��after�breakfast"
 
 //截取成数组
@@ -36,12 +36,7 @@ strArr=strArr.map(item=>{
 //数组转字符串
 strArr = strArr.join(" ").split('?').join('')
 //I'm driving to Beijing after breakfast"
-```
-## 注意点
-- JavaScript字符串是不可变的，因此不能通过使用运算符来改变字符串
-- 所以在改变字符串的时候，需要用字符串拼接再赋值
-``` 
+ 
 let temp='?beijing';
 temp.charAt(1).toUpperCase();//返回B
 console.log(temp);//还是返回'?beijing'
-```
