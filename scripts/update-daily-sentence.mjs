@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, readdir, unlink, writeFile } from "node:fs/promises";
 
 const readmePath = new URL("../readme.md", import.meta.url);
 const callback = "__dailySentence";
@@ -14,7 +14,7 @@ url.search = new URLSearchParams({
   callback,
 });
 
-const response = await fetch(url);
+const response = await fetch(url, { signal: AbortSignal.timeout(30_000) });
 if (!response.ok) throw new Error(`ICIBA request failed: ${response.status}`);
 
 const jsonp = await response.text();
@@ -46,11 +46,28 @@ const safeUrl = (value) => {
 const content = escapeHtml(data.content);
 const note = escapeHtml(data.note);
 const picture = safeUrl(data.picture);
-const weekdays = { Wen: "Wed" };
-const week = (data.week_info || []).map(({ week: day, date: dayDate, flag }) => {
-  const label = `${weekdays[day] || escapeHtml(day)} ${escapeHtml(dayDate.slice(5))}`;
-  return flag === "cur" ? `<strong>${label}</strong>` : `<code>${label}</code>`;
-}).join(" · ");
+const extension = new URL(picture).pathname.split(".").pop().toLowerCase();
+if (!["jpg", "jpeg", "png", "webp"].includes(extension)) {
+  throw new Error("Unsupported picture format");
+}
+
+const pictureResponse = await fetch(picture, { signal: AbortSignal.timeout(30_000) });
+if (!pictureResponse.ok) {
+  throw new Error(`Picture download failed: ${pictureResponse.status}`);
+}
+if (!pictureResponse.headers.get("content-type")?.startsWith("image/")) {
+  throw new Error("Picture response is not an image");
+}
+
+const imageName = `daily-sentence.${extension}`;
+const imagesDirectory = new URL("../images/", import.meta.url);
+await writeFile(new URL(imageName, imagesDirectory), Buffer.from(await pictureResponse.arrayBuffer()));
+for (const file of await readdir(imagesDirectory)) {
+  if (file.startsWith("daily-sentence.") && file !== imageName) {
+    await unlink(new URL(file, imagesDirectory));
+  }
+}
+
 const listen = data.tts
   ? `\n<p align="center"><a href="${safeUrl(data.tts)}">🔊 Listen</a></p>`
   : "";
@@ -58,16 +75,12 @@ const listen = data.tts
 const markdown = `## Daily English · ${escapeHtml(data.title)}
 
 <p align="center">
-  <img src="${picture}" alt="${content}" width="720" />
+  <img src="./images/${imageName}" alt="${content}" width="720" />
 </p>
 
 > ### ${content}
 >
 > ${note}
-
-<p align="center">
-  ${week}
-</p>
 ${listen}`;
 
 const start = "<!-- DAILY_SENTENCE_START -->";
