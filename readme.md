@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-16
+## Daily English · 2026-07-17
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Listening is a silent embrace." width="720" />
+  <img src="./images/daily-sentence.png" alt="Trust is the gentle care we give each other." width="720" />
 </p>
 
-> ### Listening is a silent embrace.
+> ### Trust is the gentle care we give each other.
 >
-> 倾听，是沉默的拥抱。
+> 信任，是彼此愿意给出的温柔。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/09e892c074176873606b8f087dc34f4f.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/6ee9885d8fadc9c61a434150f075c534.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
