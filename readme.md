@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-17
+## Daily English · 2026-07-18
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Trust is the gentle care we give each other." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Custom makes all things easy." width="720" />
 </p>
 
-> ### Trust is the gentle care we give each other.
+> ### Custom makes all things easy.
 >
-> 信任，是彼此愿意给出的温柔。
+> 习惯成自然。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/6ee9885d8fadc9c61a434150f075c534.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c599fa107dfc9ba1f2ae5fde24a50a6d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
