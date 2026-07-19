@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-18
+## Daily English · 2026-07-19
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Custom makes all things easy." width="720" />
+  <img src="./images/daily-sentence.png" alt="Be grateful for now. The future is full of hope." width="720" />
 </p>
 
-> ### Custom makes all things easy.
+> ### Be grateful for now. The future is full of hope.
 >
-> 习惯成自然。
+> 感恩此刻，未来还充满可能。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c599fa107dfc9ba1f2ae5fde24a50a6d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/6c4bc7082288eec537a52fe40ff64358.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
