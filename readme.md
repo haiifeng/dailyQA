@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-19
+## Daily English · 2026-07-20
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Be grateful for now. The future is full of hope." width="720" />
+  <img src="./images/daily-sentence.png" alt="True strength is standing up again after we fall." width="720" />
 </p>
 
-> ### Be grateful for now. The future is full of hope.
+> ### True strength is standing up again after we fall.
 >
-> 感恩此刻，未来还充满可能。
+> 真正的强大，是跌倒后再站起来。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/6c4bc7082288eec537a52fe40ff64358.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/291c8cd81c56e4838a8bf480ace943cb.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
