@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-21
+## Daily English · 2026-07-22
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Calm is the quiet deep place in a lake." width="720" />
+  <img src="./images/daily-sentence.png" alt="In conflict, the heart seems to speak with two voices." width="720" />
 </p>
 
-> ### Calm is the quiet deep place in a lake.
+> ### In conflict, the heart seems to speak with two voices.
 >
-> 平静，像湖水最深处的安静。
+> 矛盾时，心里像有两个声音在说话。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/0e314f477c3b71f05b033041b3a18385.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/bf8c19dc4b01ec56a101d6cc2c2c6d3a.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
