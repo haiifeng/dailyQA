@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-23
+## Daily English · 2026-07-24
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Heat rolls in, but watermelon tastes just right." width="720" />
+  <img src="./images/daily-sentence.png" alt="Friends by our side make the road feel shorter." width="720" />
 </p>
 
-> ### Heat rolls in, but watermelon tastes just right.
+> ### Friends by our side make the road feel shorter.
 >
-> 热浪滚滚，但西瓜甜得正好。
+> 同行的人让路变短了。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/88ab6a541a2e5796db32f27d89595483.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/3934f647c465bc76a55f3f4c17dea1e5.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
