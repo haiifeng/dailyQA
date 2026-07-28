@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-27
+## Daily English · 2026-07-28
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Kind words can gently hold a hurting heart." width="720" />
+  <img src="./images/daily-sentence.png" alt="Habit is like a path that leads us forward." width="720" />
 </p>
 
-> ### Kind words can gently hold a hurting heart.
+> ### Habit is like a path that leads us forward.
 >
-> 安慰的话，能轻轻扶住受伤的心。
+> 习惯像一条路，引着我们往前走。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c38f84b617b6f34d072d575f2929d209.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/60a8cd4c3ae8f258df8407dce008d0f1.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
