@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-29
+## Daily English · 2026-07-30
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Waiting turns time into something sweet." width="720" />
+  <img src="./images/daily-sentence.png" alt="A chance meeting is candy from fate." width="720" />
 </p>
 
-> ### Waiting turns time into something sweet.
+> ### A chance meeting is candy from fate.
 >
-> 等待把时间熬成了糖。
+> 偶遇是命运送的糖果。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/7584435364f3e7112787743b28a1009c.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/97e7c2388e23611e48b22dd8a7bd29c4.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
