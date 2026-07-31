@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-07-22
+## Daily English · 2026-07-30
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="In conflict, the heart seems to speak with two voices." width="720" />
+  <img src="./images/daily-sentence.png" alt="A chance meeting is candy from fate." width="720" />
 </p>
 
-> ### In conflict, the heart seems to speak with two voices.
+> ### A chance meeting is candy from fate.
 >
-> 矛盾时，心里像有两个声音在说话。
+> 偶遇是命运送的糖果。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/bf8c19dc4b01ec56a101d6cc2c2c6d3a.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/97e7c2388e23611e48b22dd8a7bd29c4.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
