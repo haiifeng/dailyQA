@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-01
+## Daily English · 2026-08-02
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Your silent march through storms writes peace upon our land." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="To be human is to hold sovereignty over one&#39;s fate.​" width="720" />
 </p>
 
-> ### Your silent march through storms writes peace upon our land.
+> ### To be human is to hold sovereignty over one&#39;s fate.​
 >
-> 你穿越风暴的无声行进，在大地写下和平。
+> 为人之本，在于对命运的掌控。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9d357da049acf8a0c89a9e61dbdde96b.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/df8aa76a2ab2fab74beec3a9525d4d71.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
