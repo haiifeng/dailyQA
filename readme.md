@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-02
+## Daily English · 2026-08-03
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="To be human is to hold sovereignty over one&#39;s fate.​" width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Keep your eyes on the stars and your feet on the ground." width="720" />
 </p>
 
-> ### To be human is to hold sovereignty over one&#39;s fate.​
+> ### Keep your eyes on the stars and your feet on the ground.
 >
-> 为人之本，在于对命运的掌控。
+> 仰望星空，脚踏实地。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/df8aa76a2ab2fab74beec3a9525d4d71.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/302e1904ef014e7c00ffff3bdd756052.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
