@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-03
+## Daily English · 2026-08-04
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Keep your eyes on the stars and your feet on the ground." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="A lazy youth, a lousy age." width="720" />
 </p>
 
-> ### Keep your eyes on the stars and your feet on the ground.
+> ### A lazy youth, a lousy age.
 >
-> 仰望星空，脚踏实地。
+> 少壮不努力，老大徒伤悲。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/302e1904ef014e7c00ffff3bdd756052.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e59ee4da11c97d23a756142067792ba3.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
