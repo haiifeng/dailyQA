@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-06
+## Daily English · 2026-08-07
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="One swallow does not make a summer." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Courage is not the absence of fear, but the will to guard what we cherish." width="720" />
 </p>
 
-> ### One swallow does not make a summer.
+> ### Courage is not the absence of fear, but the will to guard what we cherish.
 >
-> 一燕不成夏（一花独放不是春）。
+> 勇气非无畏，而是守护所爱的意志。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c30e236a40ba8e8e3d11073ba2560de1.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/4970c265b9b98f4893ecf36295d2eb64.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
