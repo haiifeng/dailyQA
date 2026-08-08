@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-07
+## Daily English · 2026-08-08
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Courage is not the absence of fear, but the will to guard what we cherish." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Poverty is stranger to industry." width="720" />
 </p>
 
-> ### Courage is not the absence of fear, but the will to guard what we cherish.
+> ### Poverty is stranger to industry.
 >
-> 勇气非无畏，而是守护所爱的意志。
+> 勤劳之人不受穷。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/4970c265b9b98f4893ecf36295d2eb64.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d3b6ea54e33354459fdeac4a6b51011d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
