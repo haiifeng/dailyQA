@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-08
+## Daily English · 2026-08-09
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Poverty is stranger to industry." width="720" />
+  <img src="./images/daily-sentence.png" alt="Even short goodbyes leave long shadows behind." width="720" />
 </p>
 
-> ### Poverty is stranger to industry.
+> ### Even short goodbyes leave long shadows behind.
 >
-> 勤劳之人不受穷。
+> 再短的告别，也会留下长长的影子。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d3b6ea54e33354459fdeac4a6b51011d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/4225b0a690442c8a3efbf6f729a3833f.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
