@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-10
+## Daily English · 2026-08-11
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Love looks not with the eyes, but with the mind." width="720" />
+  <img src="./images/daily-sentence.png" alt="Morning light makes its way through half-drawn curtains." width="720" />
 </p>
 
-> ### Love looks not with the eyes, but with the mind.
+> ### Morning light makes its way through half-drawn curtains.
 >
-> 爱情不用眼睛看，而用心灵看。
+> 晨光穿过半掩的窗帘，慢慢进来。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c1a400312a06988cb8f6956086533127.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/74fb2d4f0a246be5774b5b3bf766d71d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
