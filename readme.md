@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-11
+## Daily English · 2026-08-12
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Morning light makes its way through half-drawn curtains." width="720" />
+  <img src="./images/daily-sentence.png" alt="Kindness costs little, yet it changes the whole room." width="720" />
 </p>
 
-> ### Morning light makes its way through half-drawn curtains.
+> ### Kindness costs little, yet it changes the whole room.
 >
-> 晨光穿过半掩的窗帘，慢慢进来。
+> 善意花费很少，却能改变整个房间。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/74fb2d4f0a246be5774b5b3bf766d71d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5333a73565e71bdf574a24b1342e07ed.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
