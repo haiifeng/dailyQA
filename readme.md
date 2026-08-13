@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-12
+## Daily English · 2026-08-13
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Kindness costs little, yet it changes the whole room." width="720" />
+  <img src="./images/daily-sentence.png" alt="Warm tea on a quiet night softens a hard day." width="720" />
 </p>
 
-> ### Kindness costs little, yet it changes the whole room.
+> ### Warm tea on a quiet night softens a hard day.
 >
-> 善意花费很少，却能改变整个房间。
+> 安静夜里的热茶，能软化艰难的一天。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5333a73565e71bdf574a24b1342e07ed.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a95711457a216c669e340330e5cb4612.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
