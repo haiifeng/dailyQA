@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-13
+## Daily English · 2026-08-14
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Warm tea on a quiet night softens a hard day." width="720" />
+  <img src="./images/daily-sentence.png" alt="Let today be enough; tomorrow can wait a while." width="720" />
 </p>
 
-> ### Warm tea on a quiet night softens a hard day.
+> ### Let today be enough; tomorrow can wait a while.
 >
-> 安静夜里的热茶，能软化艰难的一天。
+> 让今天就够了，明天可以再等等。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a95711457a216c669e340330e5cb4612.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5e5ef4aa4b3966d18e17ec6396e47ae9.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
