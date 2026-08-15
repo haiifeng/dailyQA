@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-14
+## Daily English · 2026-08-15
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Let today be enough; tomorrow can wait a while." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Virtue never grows old." width="720" />
 </p>
 
-> ### Let today be enough; tomorrow can wait a while.
+> ### Virtue never grows old.
 >
-> 让今天就够了，明天可以再等等。
+> 美德常青。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5e5ef4aa4b3966d18e17ec6396e47ae9.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/41735393f08aeae7ed41c5072a2182a7.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
