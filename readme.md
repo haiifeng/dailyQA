@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-15
+## Daily English · 2026-08-16
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Virtue never grows old." width="720" />
+  <img src="./images/daily-sentence.png" alt="Clouds drift low, and the city breathes more slowly." width="720" />
 </p>
 
-> ### Virtue never grows old.
+> ### Clouds drift low, and the city breathes more slowly.
 >
-> 美德常青。
+> 云压得很低，城市也呼吸得更慢。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/41735393f08aeae7ed41c5072a2182a7.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a912687975c280833a20185744145b8d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
