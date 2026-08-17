@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-16
+## Daily English · 2026-08-17
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Clouds drift low, and the city breathes more slowly." width="720" />
+  <img src="./images/daily-sentence.png" alt="A shared meal turns ordinary hours into memories." width="720" />
 </p>
 
-> ### Clouds drift low, and the city breathes more slowly.
+> ### A shared meal turns ordinary hours into memories.
 >
-> 云压得很低，城市也呼吸得更慢。
+> 一顿共享的饭，把平常时光变成回忆。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a912687975c280833a20185744145b8d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/85aa3b58be3efeee3329b86bf69533a1.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
