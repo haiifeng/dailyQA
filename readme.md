@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-17
+## Daily English · 2026-08-18
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="A shared meal turns ordinary hours into memories." width="720" />
+  <img src="./images/daily-sentence.png" alt="Distance tests love, but it also teaches patience." width="720" />
 </p>
 
-> ### A shared meal turns ordinary hours into memories.
+> ### Distance tests love, but it also teaches patience.
 >
-> 一顿共享的饭，把平常时光变成回忆。
+> 距离考验爱情，也教会人耐心。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/85aa3b58be3efeee3329b86bf69533a1.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2fd0cd9f5f5575a4dd5721855eb5287c.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
