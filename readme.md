@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-18
+## Daily English · 2026-08-19
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Distance tests love, but it also teaches patience." width="720" />
+  <img src="./images/daily-sentence.png" alt="Across the river of stars, two hearts still meet." width="720" />
 </p>
 
-> ### Distance tests love, but it also teaches patience.
+> ### Across the river of stars, two hearts still meet.
 >
-> 距离考验爱情，也教会人耐心。
+> 隔着星河，两颗心依然相逢。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2fd0cd9f5f5575a4dd5721855eb5287c.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5d116ef1cb6f6b88ca29ae87c077fb0b.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
