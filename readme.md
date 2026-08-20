@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-19
+## Daily English · 2026-08-20
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Across the river of stars, two hearts still meet." width="720" />
+  <img src="./images/daily-sentence.png" alt="After meeting, parting arrives more gently than we fear." width="720" />
 </p>
 
-> ### Across the river of stars, two hearts still meet.
+> ### After meeting, parting arrives more gently than we fear.
 >
-> 隔着星河，两颗心依然相逢。
+> 相逢之后，离别来得比我们担心的更轻柔。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5d116ef1cb6f6b88ca29ae87c077fb0b.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/7ffa86ec0a261faad66e0f601d27cb6d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
