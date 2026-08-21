@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-20
+## Daily English · 2026-08-21
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="After meeting, parting arrives more gently than we fear." width="720" />
+  <img src="./images/daily-sentence.png" alt="Deep green still drinks the long summer light." width="720" />
 </p>
 
-> ### After meeting, parting arrives more gently than we fear.
+> ### Deep green still drinks the long summer light.
 >
-> 相逢之后，离别来得比我们担心的更轻柔。
+> 浓绿仍在畅饮悠长的夏日光。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/7ffa86ec0a261faad66e0f601d27cb6d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d1b5cef079098953d275660f80a6b262.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
