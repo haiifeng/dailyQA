@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-21
+## Daily English · 2026-08-22
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Deep green still drinks the long summer light." width="720" />
+  <img src="./images/daily-sentence.png" alt="There is a crack in everything; that&#39;s how the light gets in." width="720" />
 </p>
 
-> ### Deep green still drinks the long summer light.
+> ### There is a crack in everything; that&#39;s how the light gets in.
 >
-> 浓绿仍在畅饮悠长的夏日光。
+> 万物皆有裂痕，那是光照进来的地方。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d1b5cef079098953d275660f80a6b262.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/16865e93719d97f35b4d054c11d53dc6.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
