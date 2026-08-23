@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-22
+## Daily English · 2026-08-23
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="There is a crack in everything; that&#39;s how the light gets in." width="720" />
+  <img src="./images/daily-sentence.png" alt="The heat still reigns, yet evenings turn a little milder." width="720" />
 </p>
 
-> ### There is a crack in everything; that&#39;s how the light gets in.
+> ### The heat still reigns, yet evenings turn a little milder.
 >
-> 万物皆有裂痕，那是光照进来的地方。
+> 暑气仍盛，傍晚却稍稍温和了些。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/16865e93719d97f35b4d054c11d53dc6.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/bcc113ac4761593c58d388ba61e2524a.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
