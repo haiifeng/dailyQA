@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-23
+## Daily English · 2026-08-24
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="The heat still reigns, yet evenings turn a little milder." width="720" />
+  <img src="./images/daily-sentence.png" alt="New habits grow best in the quiet of early days." width="720" />
 </p>
 
-> ### The heat still reigns, yet evenings turn a little milder.
+> ### New habits grow best in the quiet of early days.
 >
-> 暑气仍盛，傍晚却稍稍温和了些。
+> 新习惯最适合在安静的早期生长。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/bcc113ac4761593c58d388ba61e2524a.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2f9f8e8bf2ef811f2c7d4249807f1b68.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
