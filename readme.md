@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-24
+## Daily English · 2026-08-25
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="New habits grow best in the quiet of early days." width="720" />
+  <img src="./images/daily-sentence.png" alt="Listen closely: even wind can carry a gentle song." width="720" />
 </p>
 
-> ### New habits grow best in the quiet of early days.
+> ### Listen closely: even wind can carry a gentle song.
 >
-> 新习惯最适合在安静的早期生长。
+> 仔细听：风也能带来轻柔的歌。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2f9f8e8bf2ef811f2c7d4249807f1b68.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/4be0ea2c4dd3f51d48f18334d455c912.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
