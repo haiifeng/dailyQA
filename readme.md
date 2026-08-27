@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-25
+## Daily English · 2026-08-27
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Listen closely: even wind can carry a gentle song." width="720" />
+  <img src="./images/daily-sentence.png" alt="A late walk clears the mind better than long worry." width="720" />
 </p>
 
-> ### Listen closely: even wind can carry a gentle song.
+> ### A late walk clears the mind better than long worry.
 >
-> 仔细听：风也能带来轻柔的歌。
+> 晚间散步，比漫长忧虑更能清空思绪。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/4be0ea2c4dd3f51d48f18334d455c912.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e66754b07df5318593be73488bd68ff3.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
