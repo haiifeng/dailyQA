@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-27
+## Daily English · 2026-08-28
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="A late walk clears the mind better than long worry." width="720" />
+  <img src="./images/daily-sentence.png" alt="No man is an island." width="720" />
 </p>
 
-> ### A late walk clears the mind better than long worry.
+> ### No man is an island.
 >
-> 晚间散步，比漫长忧虑更能清空思绪。
+> 没有人是一座孤岛。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e66754b07df5318593be73488bd68ff3.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/42be8fd19253aca77f412a2389c93bb4.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
