@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-28
+## Daily English · 2026-08-29
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="No man is an island." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Meet me where the magpies bridge the sky, just once a year yet forever." width="720" />
 </p>
 
-> ### No man is an island.
+> ### Meet me where the magpies bridge the sky, just once a year yet forever.
 >
-> 没有人是一座孤岛。
+> 鹊桥相会，一年一度，却是一生一世。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/42be8fd19253aca77f412a2389c93bb4.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/abd4287511cbaca371a8f88a2b9bb5ff.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
