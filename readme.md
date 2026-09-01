@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-08-31
+## Daily English · 2026-09-01
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="August holds the sun a little longer for us." width="720" />
+  <img src="./images/daily-sentence.png" alt="September opens with a sky both clear and wide." width="720" />
 </p>
 
-> ### August holds the sun a little longer for us.
+> ### September opens with a sky both clear and wide.
 >
-> 八月为我们多留住了一会儿阳光。
+> 九月展开，天空又清又阔。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/778143dcc8df7c6440429bb1d20945fa.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2b5e154d7fecd5a59a7b5972cc38aced.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
