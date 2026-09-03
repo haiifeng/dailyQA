@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-02
+## Daily English · 2026-09-03
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Morning sun rests on the quiet street." width="720" />
+  <img src="./images/daily-sentence.png" alt="The woods are lovely, dark and deep." width="720" />
 </p>
 
-> ### Morning sun rests on the quiet street.
+> ### The woods are lovely, dark and deep.
 >
-> 早晨的太阳，停在安静的街上。
+> 树林可爱，又暗又深。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/0dd5fc139509f8f6508244fc79fb2ee6.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/c825241b54741113daaa6b7775556726.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
