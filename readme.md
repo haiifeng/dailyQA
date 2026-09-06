@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-05
+## Daily English · 2026-09-06
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="In the age of AI, curiosity is still our superpower.  " width="720" />
+  <img src="./images/daily-sentence.png" alt="Evening light moves slowly across the floor." width="720" />
 </p>
 
-> ### In the age of AI, curiosity is still our superpower.  
+> ### Evening light moves slowly across the floor.
 >
-> 在AI时代，好奇心仍是我们的超能力。
+> 晚间的光，慢慢挪过地板。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1d013109c18a75882d9a8305089ce46d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d9921df739444a60e7b2f6b7891efcaa.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
