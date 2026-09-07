@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-06
+## Daily English · 2026-09-07
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Evening light moves slowly across the floor." width="720" />
+  <img src="./images/daily-sentence.png" alt="White dew cools the green at break of day." width="720" />
 </p>
 
-> ### Evening light moves slowly across the floor.
+> ### White dew cools the green at break of day.
 >
-> 晚间的光，慢慢挪过地板。
+> 白露在破晓时，凉了满地的绿。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d9921df739444a60e7b2f6b7891efcaa.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2af8c0d05c315149be0009196b3088dc.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
