@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-09
+## Daily English · 2026-09-10
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Books stay open when the heart stays curious." width="720" />
+  <img src="./images/daily-sentence.png" alt="A good teacher plants questions that keep growing." width="720" />
 </p>
 
-> ### Books stay open when the heart stays curious.
+> ### A good teacher plants questions that keep growing.
 >
-> 心保持好奇，书就会一直打开。
+> 好老师种下的，是不断生长的问题。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d4e3f3f296b89985f5f04b55bd87c187.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/99d8f6a07bf662bdc53d6a4524eed3d6.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
