@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-11
+## Daily English · 2026-09-12
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Curiosity makes ordinary work feel brand new." width="720" />
+  <img src="./images/daily-sentence.png" alt="Shared laughter makes the long road feel easy." width="720" />
 </p>
 
-> ### Curiosity makes ordinary work feel brand new.
+> ### Shared laughter makes the long road feel easy.
 >
-> 好奇能让平常的工作，也焕然一新。
+> 一同笑过，长路也显得轻松。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e32310fabdec3353b70428c9467d6684.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/ac84c959ae7523a9dca47c280edb3ac7.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
