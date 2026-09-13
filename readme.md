@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-12
+## Daily English · 2026-09-13
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Shared laughter makes the long road feel easy." width="720" />
+  <img src="./images/daily-sentence.png" alt="Old songs return when evening grows still." width="720" />
 </p>
 
-> ### Shared laughter makes the long road feel easy.
+> ### Old songs return when evening grows still.
 >
-> 一同笑过，长路也显得轻松。
+> 夜静下来，旧歌就会回来。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/ac84c959ae7523a9dca47c280edb3ac7.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1dac5854f0611cb3d965dd4e985d248c.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
