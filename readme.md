@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-13
+## Daily English · 2026-09-14
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Old songs return when evening grows still." width="720" />
+  <img src="./images/daily-sentence.png" alt="Do what you love, and the hours grow light." width="720" />
 </p>
 
-> ### Old songs return when evening grows still.
+> ### Do what you love, and the hours grow light.
 >
-> 夜静下来，旧歌就会回来。
+> 做你热爱的事，时光也会变轻。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1dac5854f0611cb3d965dd4e985d248c.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/0a7c1accaaf36e8714460e27fdfd242e.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
