@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-14
+## Daily English · 2026-09-15
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Do what you love, and the hours grow light." width="720" />
+  <img src="./images/daily-sentence.png" alt="A kind word can turn a hard hour around." width="720" />
 </p>
 
-> ### Do what you love, and the hours grow light.
+> ### A kind word can turn a hard hour around.
 >
-> 做你热爱的事，时光也会变轻。
+> 一句善意的话，能让难熬的一小时好转。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/0a7c1accaaf36e8714460e27fdfd242e.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/b98e355a6ae8f5258f82ce8aceb42c4c.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
