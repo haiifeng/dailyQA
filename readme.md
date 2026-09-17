@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-16
+## Daily English · 2026-09-17
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Tread softly because you tread on my dreams." width="720" />
+  <img src="./images/daily-sentence.png" alt="Warm bread on the table feels like home." width="720" />
 </p>
 
-> ### Tread softly because you tread on my dreams.
+> ### Warm bread on the table feels like home.
 >
-> 轻轻走，因为你踏着我的梦。
+> 桌上的热面包，闻起来像家。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/835328d533c923abc7cc8a0012f7a85f.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a721341b568a724545e9571b79b2a862.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
