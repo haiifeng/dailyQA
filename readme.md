@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-17
+## Daily English · 2026-09-18
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Warm bread on the table feels like home." width="720" />
+  <img src="./images/daily-sentence.png" alt="We speak much less, yet we understand much more." width="720" />
 </p>
 
-> ### Warm bread on the table feels like home.
+> ### We speak much less, yet we understand much more.
 >
-> 桌上的热面包，闻起来像家。
+> 我们说得更少，却懂得更多。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a721341b568a724545e9571b79b2a862.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/f3459953e604eabf4dc89040fc803c9a.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
