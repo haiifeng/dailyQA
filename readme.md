@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-18
+## Daily English · 2026-09-19
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="We speak much less, yet we understand much more." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Small thanks make big joy.  " width="720" />
 </p>
 
-> ### We speak much less, yet we understand much more.
+> ### Small thanks make big joy.  
 >
-> 我们说得更少，却懂得更多。
+> 小小的感恩，带来大大的快乐。  
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/f3459953e604eabf4dc89040fc803c9a.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/fa4434a529d1129966aaedeb4874203c.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
