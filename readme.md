@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-19
+## Daily English · 2026-09-20
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Small thanks make big joy.  " width="720" />
+  <img src="./images/daily-sentence.png" alt="Rain on the window makes the room feel safe." width="720" />
 </p>
 
-> ### Small thanks make big joy.  
+> ### Rain on the window makes the room feel safe.
 >
-> 小小的感恩，带来大大的快乐。  
+> 雨打在窗上，房间也显得安稳。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/fa4434a529d1129966aaedeb4874203c.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/39a3fc00883594aea41e56d157ba927a.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
