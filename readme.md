@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-20
+## Daily English · 2026-09-21
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Rain on the window makes the room feel safe." width="720" />
+  <img src="./images/daily-sentence.png" alt="Brevity is the soul of wit." width="720" />
 </p>
 
-> ### Rain on the window makes the room feel safe.
+> ### Brevity is the soul of wit.
 >
-> 雨打在窗上，房间也显得安稳。
+> 简洁是智慧的灵魂。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/39a3fc00883594aea41e56d157ba927a.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1bc76f81f500671b6e2336ded6f17f23.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
