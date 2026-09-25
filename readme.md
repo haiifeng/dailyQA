@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-24
+## Daily English · 2026-09-25
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Write one short letter to someone you miss." width="720" />
+  <img src="./images/daily-sentence.png" alt="The full moon brings distant hearts back home." width="720" />
 </p>
 
-> ### Write one short letter to someone you miss.
+> ### The full moon brings distant hearts back home.
 >
-> 给想念的人，写一封短短的信。
+> 圆月把远方的心，带回家里。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/0cf9f4aba33f15f5c259400a657c0a57.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9c48ac600c01a06834068378942c72e6.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
