@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-25
+## Daily English · 2026-09-26
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="The full moon brings distant hearts back home." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Seeds grow in quiet soil.  " width="720" />
 </p>
 
-> ### The full moon brings distant hearts back home.
+> ### Seeds grow in quiet soil.  
 >
-> 圆月把远方的心，带回家里。
+> 种子在寂静的泥土里生长。  
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9c48ac600c01a06834068378942c72e6.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9100ecc0765e1e3d411e006d401e8048.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
