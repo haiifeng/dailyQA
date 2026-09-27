@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-26
+## Daily English · 2026-09-27
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Seeds grow in quiet soil.  " width="720" />
+  <img src="./images/daily-sentence.png" alt="Small habits, done daily, quietly change a year." width="720" />
 </p>
 
-> ### Seeds grow in quiet soil.  
+> ### Small habits, done daily, quietly change a year.
 >
-> 种子在寂静的泥土里生长。  
+> 每天做的小习惯，会悄悄改变一年。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9100ecc0765e1e3d411e006d401e8048.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/824c590bd6d2c567e0a6847113b78b6e.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
