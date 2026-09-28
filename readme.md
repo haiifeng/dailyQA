@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-27
+## Daily English · 2026-09-28
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Small habits, done daily, quietly change a year." width="720" />
+  <img src="./images/daily-sentence.png" alt="The world is too much with us." width="720" />
 </p>
 
-> ### Small habits, done daily, quietly change a year.
+> ### The world is too much with us.
 >
-> 每天做的小习惯，会悄悄改变一年。
+> 这世界与我们纠缠得太深。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/824c590bd6d2c567e0a6847113b78b6e.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/aac1ea2379d20b74aa8b3f8eb6533d47.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
