@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-09-30
+## Daily English · 2026-10-01
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="We close the month with thanks, not haste." width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Red flags wave, hearts unite. " width="720" />
 </p>
 
-> ### We close the month with thanks, not haste.
+> ### Red flags wave, hearts unite. 
 >
-> 我们用感谢，而不是匆忙，结束这个月。
+> 红旗飘扬，万众一心。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/31ae28ccf8bd9c23f636aa502c5c1b36.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2aa0e2379862f001c50a2f0c5192e591.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
