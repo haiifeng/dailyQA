@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-01
+## Daily English · 2026-10-02
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Red flags wave, hearts unite. " width="720" />
+  <img src="./images/daily-sentence.jpg" alt="Firmly hold mission in mind." width="720" />
 </p>
 
-> ### Red flags wave, hearts unite. 
+> ### Firmly hold mission in mind.
 >
-> 红旗飘扬，万众一心。
+> 我们牢记使命。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/2aa0e2379862f001c50a2f0c5192e591.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9e244ec24332074f6014a7933119084a.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
