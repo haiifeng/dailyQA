@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-02
+## Daily English · 2026-10-03
 
 <p align="center">
-  <img src="./images/daily-sentence.jpg" alt="Firmly hold mission in mind." width="720" />
+  <img src="./images/daily-sentence.png" alt="The moon leans on my windowsill tonight." width="720" />
 </p>
 
-> ### Firmly hold mission in mind.
+> ### The moon leans on my windowsill tonight.
 >
-> 我们牢记使命。
+> 今晚，月亮倚在我的窗台上。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9e244ec24332074f6014a7933119084a.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a0cc32bdaed310331d70c5ed6b5820df.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
