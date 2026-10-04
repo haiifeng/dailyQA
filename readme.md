@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-03
+## Daily English · 2026-10-04
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="The moon leans on my windowsill tonight." width="720" />
+  <img src="./images/daily-sentence.png" alt="Every creature carries its own small light." width="720" />
 </p>
 
-> ### The moon leans on my windowsill tonight.
+> ### Every creature carries its own small light.
 >
-> 今晚，月亮倚在我的窗台上。
+> 每个生灵，都带着自己的微光。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/a0cc32bdaed310331d70c5ed6b5820df.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d4d05536f239a2a6b871da7cda9bc250.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
