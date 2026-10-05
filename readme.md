@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-04
+## Daily English · 2026-10-05
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Every creature carries its own small light." width="720" />
+  <img src="./images/daily-sentence.png" alt="Slow mornings make the whole day feel longer." width="720" />
 </p>
 
-> ### Every creature carries its own small light.
+> ### Slow mornings make the whole day feel longer.
 >
-> 每个生灵，都带着自己的微光。
+> 不慌不忙的清晨，让一整天都变得悠长。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/d4d05536f239a2a6b871da7cda9bc250.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/8e5b58d0f7993ac0025be2a66e64052e.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
