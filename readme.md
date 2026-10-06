@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-05
+## Daily English · 2026-10-06
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Slow mornings make the whole day feel longer." width="720" />
+  <img src="./images/daily-sentence.png" alt="Leaves let go, and the trees stand taller." width="720" />
 </p>
 
-> ### Slow mornings make the whole day feel longer.
+> ### Leaves let go, and the trees stand taller.
 >
-> 不慌不忙的清晨，让一整天都变得悠长。
+> 叶子放手了，树却站得更挺拔。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/8e5b58d0f7993ac0025be2a66e64052e.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/dde0b6fd53579b35ff058b4fa4a71c86.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
