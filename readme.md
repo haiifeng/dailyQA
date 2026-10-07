@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-06
+## Daily English · 2026-10-07
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Leaves let go, and the trees stand taller." width="720" />
+  <img src="./images/daily-sentence.png" alt="Wherever you go, your courage goes with you." width="720" />
 </p>
 
-> ### Leaves let go, and the trees stand taller.
+> ### Wherever you go, your courage goes with you.
 >
-> 叶子放手了，树却站得更挺拔。
+> 无论去哪里，勇气都与你同行。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/dde0b6fd53579b35ff058b4fa4a71c86.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e67f14e9c3ca8255cbaeac388f0e25f6.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
