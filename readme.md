@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-07
+## Daily English · 2026-10-08
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Wherever you go, your courage goes with you." width="720" />
+  <img src="./images/daily-sentence.png" alt="Cold dew wets the grass, and autumn deepens its voice." width="720" />
 </p>
 
-> ### Wherever you go, your courage goes with you.
+> ### Cold dew wets the grass, and autumn deepens its voice.
 >
-> 无论去哪里，勇气都与你同行。
+> 寒露打湿了草，秋天深沉了嗓音。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/e67f14e9c3ca8255cbaeac388f0e25f6.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/3142c42b9547ca6f2f964b6a1fc75ef8.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
