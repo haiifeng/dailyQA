@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-08
+## Daily English · 2026-10-10
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Cold dew wets the grass, and autumn deepens its voice." width="720" />
+  <img src="./images/daily-sentence.png" alt="Rivers never argue with the stones; they simply move on." width="720" />
 </p>
 
-> ### Cold dew wets the grass, and autumn deepens its voice.
+> ### Rivers never argue with the stones; they simply move on.
 >
-> 寒露打湿了草，秋天深沉了嗓音。
+> 江河不与石头争辩，只管向前流淌。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/3142c42b9547ca6f2f964b6a1fc75ef8.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5d495d114349c40701d4b7f7ce1802ec.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
