@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-10
+## Daily English · 2026-10-11
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Rivers never argue with the stones; they simply move on." width="720" />
+  <img src="./images/daily-sentence.png" alt="The best memories are made around a full table." width="720" />
 </p>
 
-> ### Rivers never argue with the stones; they simply move on.
+> ### The best memories are made around a full table.
 >
-> 江河不与石头争辩，只管向前流淌。
+> 最好的回忆，总在满满的餐桌旁。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/5d495d114349c40701d4b7f7ce1802ec.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9f62a8ab94898acedc56f797a613c3c2.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
