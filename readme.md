@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-11
+## Daily English · 2026-10-12
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="The best memories are made around a full table." width="720" />
+  <img src="./images/daily-sentence.png" alt="Small steps, taken daily, become a long road traveled." width="720" />
 </p>
 
-> ### The best memories are made around a full table.
+> ### Small steps, taken daily, become a long road traveled.
 >
-> 最好的回忆，总在满满的餐桌旁。
+> 每天一小步，走过就是长路。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/9f62a8ab94898acedc56f797a613c3c2.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/26f2915e9a0aa58b3672b4d3d74193e8.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
