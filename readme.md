@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-12
+## Daily English · 2026-10-13
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Small steps, taken daily, become a long road traveled." width="720" />
+  <img src="./images/daily-sentence.png" alt="Your kindness may be someone&#39;s whole sunshine today." width="720" />
 </p>
 
-> ### Small steps, taken daily, become a long road traveled.
+> ### Your kindness may be someone&#39;s whole sunshine today.
 >
-> 每天一小步，走过就是长路。
+> 你的善意，也许正是别人今天全部的阳光。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/26f2915e9a0aa58b3672b4d3d74193e8.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1ed4ae44bb8a035b0621e63fbf4acd4d.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
