@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-13
+## Daily English · 2026-10-14
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Your kindness may be someone&#39;s whole sunshine today." width="720" />
+  <img src="./images/daily-sentence.png" alt="Mist rolls over the hills like a slow song." width="720" />
 </p>
 
-> ### Your kindness may be someone&#39;s whole sunshine today.
+> ### Mist rolls over the hills like a slow song.
 >
-> 你的善意，也许正是别人今天全部的阳光。
+> 雾漫过山丘，像一首舒缓的歌。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/1ed4ae44bb8a035b0621e63fbf4acd4d.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/78b145242672f712db29c084c88bd787.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
