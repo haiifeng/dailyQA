@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-14
+## Daily English · 2026-10-15
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Mist rolls over the hills like a slow song." width="720" />
+  <img src="./images/daily-sentence.png" alt="Choose the harder right instead of the easier wrong." width="720" />
 </p>
 
-> ### Mist rolls over the hills like a slow song.
+> ### Choose the harder right instead of the easier wrong.
 >
-> 雾漫过山丘，像一首舒缓的歌。
+> 选择更难的正确，而非更容易的错误。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/78b145242672f712db29c084c88bd787.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/b98453285290f73f8d73749a9b137695.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
