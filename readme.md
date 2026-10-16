@@ -3,17 +3,17 @@
 > 记录前端学习、面试题与日常思考。
 
 <!-- DAILY_SENTENCE_START -->
-## Daily English · 2026-10-15
+## Daily English · 2026-10-16
 
 <p align="center">
-  <img src="./images/daily-sentence.png" alt="Choose the harder right instead of the easier wrong." width="720" />
+  <img src="./images/daily-sentence.png" alt="Bread tastes better when it is shared." width="720" />
 </p>
 
-> ### Choose the harder right instead of the easier wrong.
+> ### Bread tastes better when it is shared.
 >
-> 选择更难的正确，而非更容易的错误。
+> 一起分享的面包，格外香甜。
 
-<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/b98453285290f73f8d73749a9b137695.mp3">🔊 Listen</a></p>
+<p align="center"><a href="https://staticedu-wps-cache.iciba.com/audio/624e4b322c4983302e21a54baddb3fee.mp3">🔊 Listen</a></p>
 <!-- DAILY_SENTENCE_END -->
 
 ## Topics
